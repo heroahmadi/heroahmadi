@@ -11,4 +11,5 @@ Greetings, you can call me Hero. Technology enthusiast, based on Indonesia.
 
 ![](https://github-readme-stats.vercel.app/api?username=heroahmadi&hide_border=false&include_all_commits=true&count_private=false&show_icons=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=heroahmadi&hide_border=false&show_icons=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=heroahmadi&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=html)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=heroahmadi&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=html,css)
+
